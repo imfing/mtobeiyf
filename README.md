@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 **I’m currently looking for full-time engineer job**
 - 📫 How to reach me: [imfing.com](https://imfing.com)
 - ⚡ Fun fact: `mtobeiyf` comes from quote "May The Odds Be Ever In Your Favor" in *The Hunger Games*
 
